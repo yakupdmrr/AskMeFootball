@@ -1,0 +1,39 @@
+[
+    {
+        "tabuQuestion":"C.Ronaldo",
+        "bannedWord1":"Portekiz",
+        "bannedWord2":"Real Madrid",
+        "bannedWord3":"Lionel Messi",
+        "bannedWord4":"Alex Ferguson"
+    },
+    {
+        "tabuQuestion":"Fenerbahçe",
+        "bannedWord1":"Süper Lig",
+        "bannedWord2":"Alex",
+        "bannedWord3":"Sarı Kanaryalar",
+        "bannedWord4":"Ali Koç"
+    },
+    {
+        "tabuQuestion":"İbrahimoviç",
+        "bannedWord1":"PSG",
+        "bannedWord2":"İnter",
+        "bannedWord3":"İsveç",
+        "bannedWord4":"Milan"
+    },
+    {
+        "tabuQuestion":"Arjantin",
+        "bannedWord1":"Lionel Messi",
+        "bannedWord2":"Maradona",
+        "bannedWord3":"Ülke",
+        "bannedWord4":"Agüero"
+    },
+    {
+        "tabuQuestion":"Brezilya",
+        "bannedWord1":"Neymar",
+        "bannedWord2":"Pele",
+        "bannedWord3":"Dünya Kupası",
+        "bannedWord4":"Alex"
+    }
+   ]
+   
+   
